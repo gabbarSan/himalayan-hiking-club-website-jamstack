@@ -1,8 +1,5 @@
 module.exports = function(eleventyConfig){
     eleventyConfig.addPassthroughCopy("./src/style.css");
-    eleventyConfig.addPassthroughCopy("./src/assets/templates/css/bootstrap-image-gallery.css");
-    eleventyConfig.addPassthroughCopy("./src/assets/templates/css/bootstrap-image-gallery.min.css");
-    eleventyConfig.addPassthroughCopy("./src/assets/templates/css/bootstrap.css");
     eleventyConfig.addPassthroughCopy("./src/assets/templates/css/bootstrap.min.css");
     eleventyConfig.addPassthroughCopy("./src/assets/templates/css/datepicker.css");
     eleventyConfig.addPassthroughCopy("./src/assets/templates/css/extralayers.css");
@@ -13,6 +10,7 @@ module.exports = function(eleventyConfig){
     eleventyConfig.addPassthroughCopy("./src/assets/templates/css/superfish.css");
     eleventyConfig.addPassthroughCopy("./src/assets/templates/css/weather.css");
     eleventyConfig.addPassthroughCopy("./src/assets");
+    eleventyConfig.addPassthroughCopy("./src/admin/config.yml");
 
     return {
         dir: {
