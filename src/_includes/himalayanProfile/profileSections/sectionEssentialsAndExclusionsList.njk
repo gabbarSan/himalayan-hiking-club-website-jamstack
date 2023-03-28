@@ -1,0 +1,18 @@
+<br><br><br>
+<div class="row">
+    <div class="col-md-12">
+        <!--  Tabs -->
+        <ul class="nav nav-tabs">
+            <li class="active"><a href="#essentials" data-toggle="tab">List Of Essentials</a></li>
+            <li><a href="#exclusions" data-toggle="tab">Exclusions</a></li>
+            <!-- li><a href="#cancellation" data-toggle="tab">Cancellation Policy</a></li -->
+        </ul>
+        <div class="tab-content">
+            {% include 'himalayanProfile/profileSections/sectionListOfEssentials.njk' %}
+            {% include 'himalayanProfile/profileSections/sectionExclusionsList.njk' %}
+        </div>
+    </div><!-- End col-md-6 -->
+
+    <br><br><br>
+    {%- include 'himalayanProfile/profileSections/sectionPanelsGroup.njk' -%}
+</div>

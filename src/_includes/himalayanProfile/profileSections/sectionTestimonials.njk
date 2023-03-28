@@ -1,0 +1,18 @@
+<h4>Testimonials</h4>
+<div class="carousel">
+    {%- for testimonial in testimonials -%}
+    <div>
+    <blockquote class="testimonial">
+        <p>{{ testimonial.userTestimonialDetail }}</p>
+    </blockquote>
+    <div class="testimonial-arrow-down">
+    </div>
+    <div class="testimonial-author">
+        <div class="img-thumbnail img-thumbnail-small">
+        <img class="img-circle" src="{{ testimonial.userProfileImage }}" alt="">
+        </div>
+        <p><strong>"{{ testimonial.userName }}"</strong><span>{{ testimonial.userRelationship }}</span></p>
+    </div>
+    </div>
+{%- endfor -%}
+</div>

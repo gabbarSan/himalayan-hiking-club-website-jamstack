@@ -1,0 +1,13 @@
+<h3>{{ sectionItinerary }}</h3>
+
+{%- for itinerary in sectionItineraryBullets -%}
+<div class="media list_1">
+    <div class="pull-right picture">
+        <img src="{{ itinerary.image }}" alt="{{ itinerary.imageAlt }}" class="img-rounded styled">
+    </div>
+    <div class="media-body">
+        <h4 class="p-title"><i class="icon-address"></i>{{ itinerary.heading }}</h4>
+        <p>{{ itinerary.description }}</p>
+    </div>
+</div>
+{%- endfor -%}
