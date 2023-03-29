@@ -6,6 +6,6 @@ subHeading: title test kedar
 trekPrice: "5000"
 tags:
   - post
-bannerImage: /assets/templates/images/about-us-1.jpg
+bannerImage: /assets/templates/images/aboutUs/about-us-2.jpg
 imageAlt: Camps
 ---
