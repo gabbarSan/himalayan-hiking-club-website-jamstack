@@ -20,5 +20,15 @@ collections:
       - { label: "Banner Image Alt", name: "imageAlt", widget: "string" }
       - { label: "Brief Description", name: "description", widget: "string" }
       - { label: "Section Overview Heading", name: "sectionOverview", widget: "string" }
-      - { label: "Section Overview Body", name: "sectionOverviewBullets", widget: "string" }
-      
+      - { label: "Section Overview Body", name: "sectionOverviewBullets", widget: "list" }
+      - { 
+          label: "Image Carousel", 
+          name: "images", 
+          widget: "image", 
+          choose_url: true, 
+          default: "/assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-1.jpg", 
+          media_library: 
+            config: 
+              multiple: true
+        }
+
