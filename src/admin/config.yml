@@ -36,11 +36,11 @@ collections:
       - { label: "Section Weather", name: "sectionWeather", widget: "string" }
       - { label: "Section Weather Description", name: "sectionWeatherDescription", widget: "text" }
       - label: "Gallery"
-          name: "galleryImages"
-          widget: "list"
-          fields:
-            - { label: "Source", name: "src", widget: "string" }
-            - { label: "Alt Text", name: "alt", widget: "string" }
-          default:
-            - { src: "/assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-2.jpg", alt: "Tennis" }
-            - { src: "/assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-3.jpg", alt: "Football" }
+        name: "galleryImages"
+        widget: "list"
+        fields:
+          - { label: "Source", name: "src", widget: "string" }
+          - { label: "Alt Text", name: "alt", widget: "string" }
+        default:
+          - { src: "/assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-2.jpg", alt: "Tennis" }
+          - { src: "/assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-3.jpg", alt: "Football" }
