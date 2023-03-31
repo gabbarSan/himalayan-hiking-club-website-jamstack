@@ -30,8 +30,17 @@ collections:
       - { label: "Brief Description", name: "description", widget: "string" }
       - { label: "Section Overview Heading", name: "sectionOverview", widget: "string" }
       - { label: "Section Overview Bullets", name: "sectionOverviewBullets", widget: "list" }
-      - { label: "Section Overview Description", name: "sectionOverviewDescription", widget: "Text"}
+      - { label: "Section Overview Description", name: "sectionOverviewDescription", widget: "text"}
       - { label: "Section Short Itinerary", name: "shortItinerary", widget: "string" }
-      - { label: "Section Short Itinerary Bullets", name: "sectionShortItineraryBullets", widget: "List" }
+      - { label: "Section Short Itinerary Bullets", name: "sectionShortItineraryBullets", widget: "list" }
       - { label: "Section Weather", name: "sectionWeather", widget: "string" }
-      - { label: "Section Weather Description", name: "sectionWeatherDescription", widget: "Text" }
+      - { label: "Section Weather Description", name: "sectionWeatherDescription", widget: "text" }
+      - label: "Gallery"
+          name: "galleryImages"
+          widget: "list"
+          fields:
+            - { label: "Source", name: "src", widget: "string" }
+            - { label: "Alt Text", name: "alt", widget: "string" }
+          default:
+            - { src: "/assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-2.jpg", alt: "Tennis" }
+            - { src: "/assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-3.jpg", alt: "Football" }
