@@ -39,7 +39,7 @@ collections:
         name: "galleryImages"
         widget: "list"
         fields:
-          - { label: "Source", name: "src", widget: "string" }
+          - { label: "Source", name: "src", widget: "image" }
           - { label: "Alt Text", name: "alt", widget: "string" }
         default:
           - { src: "/assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-2.jpg", alt: "Tennis" }
