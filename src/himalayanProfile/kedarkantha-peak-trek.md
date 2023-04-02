@@ -10,7 +10,7 @@ galleryImages:
   - src: /assets/templates/images/kedarkantha-peak-trek-2.jpg
     alt: Kedarkantha Peak Trek Carousel Image 2
   - src: /assets/templates/images/kedarkantha-peak-trek-3.jpg
-    alt: Kedarkantha Peak Trek Carousel Image 3
+    alt: Kedarkantha Peak Trek Carousel Image Test 3
 author: null
 imageAlt: this is Kedarkantha Peak Trek Image
 thumbnail: /assets/templates/images/about-us-1.jpg
