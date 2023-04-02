@@ -55,11 +55,17 @@ sectionOverviewDescription: >
 
   <br>
 
+  <br>
+
   Based in Western Garhwal in the Uttarakashi district, the Kedarkantha Trek is known for being one of the easy treks of the country which can be attended by people who are in experienced trekkers and have no knowledge of prior trekking. However physical fitness is required where one should be able to jog at least for 4 kms in 30 minutes before committing for the trekking tour. As the altitude rises the air becomes thin and people needs to carry backpacks too, which can all be very difficult, without proper physical fitness.
 
   <br>
 
+  <br>
+
   Trekking in Uttarakhand is always a pleasure due to its ravishing beauty and panoramic natural views that cannot be matched with any other destinations within the country. But among all the fascinating locations and thrilling trekking sites available it is the snow treks of Kedarkantha which inspires every trekker a lot. In fact it has a lot of reasons of being such a terrific trek which makes it so popular among the enthusiastic travelers. The very first reason is the availability of snow till the end of April making it one of the best winter trek destination of all. And what more one can view the lovely snows at a height of only 10,000 feet lying at the base of the pine trees. The next reason for its popularity is the lovely campsites, where every site is unique in its own way and does not match the beauty with any other campsites in the journey. Another beauty of this trekking trail is that it starts from dense pine forest where one can begin the trekking trail walking over the bed brown dried leaves creating a unique experience and a magnificent view that is absolutely unparallel. Last but not the least is the splendid jaw dropping breath taking view of the famous snow clapped mountain summits that comes into view as soon as one steps in Kedarkantha base and the view gets more stunning which each step towards the summit. In a whole the trekking tour promises refreshing and heart filled pleasure which makes the destination so attractive to millions of visitors throughout the year.
+
+  <br>
 
   <br>
 
