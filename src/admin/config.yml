@@ -18,15 +18,6 @@ collections:
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Banner Image", name: "bannerImage", widget: "image" }
       - { label: "Banner Image Alt", name: "imageAlt", widget: "string" }
-      - label: "Featured Image"
-        name: "thumbnail"
-        widget: "image"
-        choose_url: true
-        default: "/uploads/chocolate-dogecoin.jpg"
-        media_library:
-          config:
-            multiple: true
-
       - { label: "Brief Description", name: "description", widget: "string" }
       - { label: "Section Overview Heading", name: "sectionOverview", widget: "string" }
       - { label: "Section Overview Bullets", name: "sectionOverviewBullets", widget: "list" }
@@ -44,3 +35,11 @@ collections:
         default:
           - { src: "/assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-2.jpg", alt: "Tennis" }
           - { src: "/assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-3.jpg", alt: "Football" }
+      - label: "Featured Image"
+        name: "thumbnail"
+        widget: "image"
+        choose_url: true
+        default: "/uploads/chocolate-dogecoin.jpg"
+        media_library:
+          config:
+            multiple: true
