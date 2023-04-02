@@ -5,6 +5,12 @@ subHeading: The Kedarkantha Peak is one of the most sought after snow trekking
   destinations in India.
 trekPrice: 13500
 galleryImages:
+  - src: /assets/templates/images/kedarkantha-peak-trek-1.jpg
+    alt: Kedarkantha Peak Trek Carousel Image 1
+  - src: /assets/templates/images/kedarkantha-peak-trek-2.jpg
+    alt: Kedarkantha Peak Trek Carousel Image 2
+  - src: /assets/templates/images/kedarkantha-peak-trek-3.jpg
+    alt: Kedarkantha Peak Trek Carousel Image 3
   - src: /assets/templates/images/kedarkantha-peak-trek-4.jpg
     alt: Kedarkantha Peak Trek Carousel Image 4
   - src: /assets/templates/images/kedarkantha-peak-trek-5.jpg
