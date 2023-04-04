@@ -1,4 +1,5 @@
 ---
+title: Kedarkantha Peak Trek
 titleShort: Kedarkantha
 heading: Kedarkantha Peak Trek
 subHeading: The Kedarkantha Peak is one of the most sought after snow trekking
@@ -20,7 +21,6 @@ author: null
 thumbnail: /assets/templates/images/about-us-1.jpg
 imageAlt: this is Kedarkantha Peak Trek Image
 date: null
-title: Kedarkantha Peak Trek
 tags:
   - profile
   - trek
