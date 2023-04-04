@@ -17,7 +17,6 @@ galleryImages:
     alt: Kedarkantha Peak Trek Carousel Image 5
 author: null
 imageAlt: this is Kedarkantha Peak Trek Image
-sectionWeatherDescription: Kedarkantha Peak Trek Weather Description
 thumbnail: /assets/templates/images/about-us-1.jpg
 date: null
 title: Kedarkantha Peak Trek
@@ -70,6 +69,15 @@ sectionOverviewDescription: >
   <br>
 
   Though Kedarkantha trek can be conducted almost the whole year but the aspiring views that it provides in the winter months from December to April cannot be compared with summer times. The snow clapped trekking trails and the buckets of snow at the base of the pine trees are a fascinating beauty to savor and which remains only available during the winter days. In fact for the locals the winter months are a time for rejoice and they enjoy with a number of festivals during this time. However it is better to avoid the monsoon time for trekking in these trail.
-shortItinerary: Kedarkantha Peak Trek Section Short Itinerary
+sectionShortItinerary: Kedarkantha Peak Trek Section Short Itinerary
+sectionShortItineraryBullets: 
+    - "Day 1: Arrival at Sankri"
+    - "Day 2: Sankri to Juda-ka-Talab"
+    - "Day 3: Juda-ka-Talab to Kedarkantha Base"
+    - "Day 4: Kedarkantha base to Kedarkantha peak; descend to Hargaon camp"
+    - "Day 5: Hargaon camp to Sankri"
+    - "Day 6: Departure day (Sankri to Dehradun)"
+    - "<strong>Note:</strong> On Day 6, you’ll reach Dehradun between 6 pm and 7 pm. You can book your travel any time after 8 pm."
 sectionWeather: Kedarkantha Peak Trek Section Weather
+sectionWeatherDescription: Kedarkantha Peak Trek Weather Description
 ---
