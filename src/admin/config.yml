@@ -36,10 +36,10 @@ collections:
       - { label: "Section Weather", name: "sectionWeather", widget: "string" }
       - { label: "Section Weather Description", name: "sectionWeatherDescription", widget: "text" }
       - label: "Itinerary"
-              name: "itineraryList"
-              widget: "list"
-              fields:
-                - { label: "Display Pic", name: "image", widget: "image" }
-                - { label: "Display Pic Alt Text", name: "imageAlt", widget: "string" }
-                - { label: "Heading", name: "heading", widget: "string" }
-                - { label: "Itinerary Description", name: "description", widget: "string" }
+        name: "itineraryList"
+        widget: "list"
+        fields:
+          - { label: "Display Pic", name: "image", widget: "image" }
+          - { label: "Display Pic Alt Text", name: "imageAlt", widget: "string" }
+          - { label: "Heading", name: "heading", widget: "string" }
+          - { label: "Itinerary Description", name: "description", widget: "string" }
