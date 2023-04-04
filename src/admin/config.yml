@@ -15,17 +15,6 @@ collections:
       - { label: "Heading", name: "heading", widget: "string" }
       - { label: "Sub Heading", name: "subHeading", widget: "string" }
       - { label: "Trek Price", name: "trekPrice", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
-      - { label: "Banner Image", name: "bannerImage", widget: "image" }
-      - { label: "Banner Image Alt", name: "imageAlt", widget: "string" }
-      - { label: "Brief Description", name: "description", widget: "string" }
-      - { label: "Section Overview Heading", name: "sectionOverview", widget: "string" }
-      - { label: "Section Overview Bullets", name: "sectionOverviewBullets", widget: "list" }
-      - { label: "Section Overview Description", name: "sectionOverviewDescription", widget: "text"}
-      - { label: "Section Short Itinerary", name: "shortItinerary", widget: "string" }
-      - { label: "Section Short Itinerary Bullets", name: "sectionShortItineraryBullets", widget: "list" }
-      - { label: "Section Weather", name: "sectionWeather", widget: "string" }
-      - { label: "Section Weather Description", name: "sectionWeatherDescription", widget: "text" }
       - label: "Gallery"
         name: "galleryImages"
         widget: "list"
@@ -35,11 +24,22 @@ collections:
         default:
           - { src: "/assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-2.jpg", alt: "Tennis" }
           - { src: "/assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-3.jpg", alt: "Football" }
-      - label: "Featured Image"
-        name: "thumbnail"
-        widget: "image"
-        choose_url: true
-        default: "/uploads/chocolate-dogecoin.jpg"
-        media_library:
-          config:
-            multiple: true
+      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - { label: "Banner Image", name: "bannerImage", widget: "image" }
+      - { label: "Banner Image Alt", name: "imageAlt", widget: "string" }
+      - { label: "Brief Description", name: "description", widget: "string" }
+      - { label: "Section Overview Heading", name: "sectionOverview", widget: "string" }
+      - { label: "Section Overview Bullets", name: "sectionOverviewBullets", widget: "list" }
+      - { label: "Section Overview Description", name: "sectionOverviewDescription", widget: "text"}
+      - { label: "Section Short Itinerary", name: "sectionShortItinerary", widget: "string" }
+      - { label: "Section Short Itinerary Bullets", name: "sectionShortItineraryBullets", widget: "list" }
+      - { label: "Section Weather", name: "sectionWeather", widget: "string" }
+      - { label: "Section Weather Description", name: "sectionWeatherDescription", widget: "text" }
+      - label: "Itinerary"
+              name: "itineraryList"
+              widget: "list"
+              fields:
+                - { label: "Display Pic", name: "image", widget: "image" }
+                - { label: "Display Pic Alt Text", name: "imageAlt", widget: "string" }
+                - { label: "Heading", name: "heading", widget: "string" }
+                - { label: "Itinerary Description", name: "description", widget: "string" }
