@@ -16,6 +16,83 @@ galleryImages:
     alt: Kedarkantha Peak Trek Carousel Image 4
   - src: /assets/templates/images/kedarkantha-peak-trek-5.jpg
     alt: Kedarkantha Peak Trek Carousel Image 5
+author: null
+thumbnail: /assets/templates/images/about-us-1.jpg
+imageAlt: this is Kedarkantha Peak Trek Image
+date: null
+title: Kedarkantha Peak Trek
+tags:
+  - profile
+  - trek
+  - post
+bannerImage: /assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-profile-header.jpg
+description: The Kedarkantha Peak is one of the most sought after snow trekking
+  destinations in India. | Trek with HIMALAYAN HIKING CLUB
+sectionOverview: Overview
+sectionOverviewBullets:
+  - Region :- Uttarakhand
+  - Duration :- 6 Days
+  - Grade :- Easy To Moderate
+  - Max Altitude :- 12,500 Ft.
+  - Approx Trekking Km :- 33 Kms
+sectionOverviewDescription: >
+  Adorned with ravishing beauty of falling snow and fringed with pine trees, The
+  Kedarkantha Peak is one of the most sought after snow trekking destinations in
+  India. With falling winter snow it’s a mesmerizing pictorial view and what’s
+  more attractive, is the view of the Mighty Himalayas from the trails right to
+  the top. Nestled at a height of 3810 meters which is about 12,500 feet this is
+  an ideal trekking trail which covers a consolidated distance of 20 kms. The
+  distance is not much and the trekking trail is neither very difficult which
+  enables even the first time trekkers to set on the adventure and enjoy the
+  beauty of nature at its best. With charming and captivating sights of snow
+  clapped Himalayas, the verdant greenery, lush landscapes, myriad collection of
+  flora, frozen ponds, to the sights of mesmerizing peaks, this trek have all
+  the delightful marvels that a trekker wish to experience and view in his
+  journey. Not only for the adventure seekers and trekkers, to enjoy thrilling
+  challenges, the Kedarkantha Trek is an ideal destination for the nature lovers
+  to bask in the beauty of undisturbed nature and enjoy delightful and blissful
+  moments with exhilarating experiences.
+
+  <br>
+
+  <br>
+
+  Based in Western Garhwal in the Uttarakashi district, the Kedarkantha Trek is known for being one of the easy treks of the country which can be attended by people who are in experienced trekkers and have no knowledge of prior trekking. However physical fitness is required where one should be able to jog at least for 4 kms in 30 minutes before committing for the trekking tour. As the altitude rises the air becomes thin and people needs to carry backpacks too, which can all be very difficult, without proper physical fitness.
+
+  <br>
+
+  <br>
+
+  Trekking in Uttarakhand is always a pleasure due to its ravishing beauty and panoramic natural views that cannot be matched with any other destinations within the country. But among all the fascinating locations and thrilling trekking sites available it is the snow treks of Kedarkantha which inspires every trekker a lot. In fact it has a lot of reasons of being such a terrific trek which makes it so popular among the enthusiastic travelers. The very first reason is the availability of snow till the end of April making it one of the best winter trek destination of all. And what more one can view the lovely snows at a height of only 10,000 feet lying at the base of the pine trees. The next reason for its popularity is the lovely campsites, where every site is unique in its own way and does not match the beauty with any other campsites in the journey. Another beauty of this trekking trail is that it starts from dense pine forest where one can begin the trekking trail walking over the bed brown dried leaves creating a unique experience and a magnificent view that is absolutely unparallel. Last but not the least is the splendid jaw dropping breath taking view of the famous snow clapped mountain summits that comes into view as soon as one steps in Kedarkantha base and the view gets more stunning which each step towards the summit. In a whole the trekking tour promises refreshing and heart filled pleasure which makes the destination so attractive to millions of visitors throughout the year.
+
+  <br>
+
+  <br>
+
+  Though Kedarkantha trek can be conducted almost the whole year but the aspiring views that it provides in the winter months from December to April cannot be compared with summer times. The snow clapped trekking trails and the buckets of snow at the base of the pine trees are a fascinating beauty to savor and which remains only available during the winter days. In fact for the locals the winter months are a time for rejoice and they enjoy with a number of festivals during this time. However it is better to avoid the monsoon time for trekking in these trail.
+sectionShortItinerary: Kedarkantha Peak Trek Section Short Itinerary
+sectionShortItineraryBullets:
+  - "Day 1: Arrival at Sankri"
+  - "Day 2: Sankri to Juda-ka-Talab"
+  - "Day 3: Juda-ka-Talab to Kedarkantha Base"
+  - "Day 4: Kedarkantha base to Kedarkantha peak; descend to Hargaon camp"
+  - "Day 5: Hargaon camp to Sankri"
+  - "Day 6: Departure day (Sankri to Dehradun)"
+  - <strong>Note:</strong> On Day 6, you’ll reach Dehradun between 6 pm and 7
+    pm. You can book your travel any time after 8 pm.
+sectionWeather: Weather Details
+sectionWeatherDescription: In the initial days of the pre monsoon season
+  (May-Jun) there will be snow along the latter part of the trail which
+  generally melts by end June. Days are going to be sunny and warm (12-20 °C)
+  while the night temperature at the highest campsite would be in the range of
+  -2 to 6 °C. In the post monsoon season (Sep-Oct) there is hardly any snow at
+  the start with possibility of snowfall towards the end of the season, which
+  also melts very fast. The days are sunny with temperatures hovering around
+  (10-16 °C) the evenings start getting cold with the onset of October and
+  nights are comparatively colder (- 5 to 5 °C).<br>Please keep in mind that the
+  above information is not exact and does not account for sudden changes.
+  Whatever the temperatures and conditions rest assured we will be prepared to
+  handle it with ease as we use equipment of very high specifications.
 itineraryList:
   - image: /assets/templates/images/kedarkantha-peak-trek-day-1.jpg
     imageAlt: kedarkantha peak trek day 1
@@ -50,77 +127,6 @@ itineraryList:
       flavors and experience the cuisine of the area. Overnight stay at the
       hotel.
   - image: /assets/templates/images/kedarkantha-peak-trek-day-2.jpg
-    imageAlt: kedarkantha peak trek day 2
-    heading: "Day 2: Sankri to Juda-ka-Talab"
-    description: Though the tour starts from Dehradun but the trekking trip
-      commences from Sankri only. Having an early start after a healthy
-      breakfast at the hotel it’s a journey straight towards Juda Ka Talab which
-      is based at an altitude of 9100 feet. It’s a 4km trekking journey and the
-      approximate time for reaching the same is around 5 hours. The journey
-      begins by moving out of Sankri village through an extension called Sor.
-      Once the village is crossed the road takes a wide curve and climbs
-      sharply. Moving along the stream this is the road that moves towards the
-      Kedarkantha. The initial climb would be climbing several bridges through
-      dense forest trees and thick carpet of maple and pine leaves all brown in
-      color. It’s an exquisite vision and a pictorial view that leaves all
-      mesmerized. The trail is wide and one can hear the sounds of running
-      streams all through but may not be in view till much further. On the way
-      one can view remote villages where women and kids are found carrying
-      bundles of wooden logs, wooden sticks and dry leaves to utilize them for
-      household cooking and setting up night fire. While crunching the dried
-      maple and oak leaves on the way up one can also view Himalayan Languars
-      swinging from one branch of trees to another. Though they are somewhat a
-      shy animal it’s difficult to have a gallant view of them as they move
-      quickly from the vision’s range. Apart from this, boars, martens and hares
-      can also be spotted in this region. The scenario however changes a lot in
-      the summer months when the luscious meadows remain verdant green with
-      hilly flowers of unique kind. Crossing few streams and continuing through
-      the trail and rising sharp through dense oaks one can reach the beautiful
-      pictorial spot of Jadu Ka Talab which can never be missed by any trekker
-      due to its sharp contrasting and unique beauty. Jadu Ka talab is a too
-      perfect a destination. The sharp contrast of a giant lake on the left and
-      thick pine and oak forest on the right is a fascinating setting the lap of
-      Mother Nature and an ideal campsite to spend a perfect evening. One can
-      engage in activities like photography or nature walk to explore the area
-      at the best. At the night time campfire can also be a good idea to share
-      the light supper some warm drinks underneath the clear sky. The night sky
-      however is a treat to the eyes with bright and shining stars creating a
-      magnificent aura which is enjoyable for all trekkers. Overnight sleep is
-      arranged in tents.
-sectionItineraryBullets:
-  - image: /assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-day-1.jpg
-    imageAlt: kedarkantha peak trek day 1
-    heading: "Day 1: Arrival at Sankri"
-    description: The exotic and fascinating Kedarkantha Trek commences from Dehradun
-      city. The trekkers for the trip should reach Dehradun on the day before
-      the trip commences or before 6am of the commencing date. The trekkers will
-      be received warmly by the authorized personal from Dehradun at 6:30am for
-      a onward journey to Sankri. Sankri is located at a distance of 220kms on
-      the National Highway 123. It’s a long scenic drive on a Tata Sumo or a
-      similar vehicle providing absolute comfort to the trekkers so that they
-      can enjoy the beauty of the location. It is the scenic surroundings which
-      increases the pleasure of reaching the destination and exhilarates the joy
-      of the thrilling tour that remains yet to be experienced. The journey is a
-      long one and takes about evening to reach the destination. In the midst
-      one can enjoy the lunch break at the popular eateries having some local
-      food and homemade spices. The last 22 kms to Sankri is all the more
-      exciting since it travels through Govind National Park which is famous for
-      its avid collection of flora typical of this region and not found in any
-      other location of the country. The expected time to reach Sankri is 5 pm
-      but since in some areas the roads are a little bumpy and rough, the time
-      can be a little longer. However on reaching the destination one can check
-      in to the prior booked hotel and our representative can help with the
-      check in formalities. After freshening up, since the evening is free for
-      leisure one can enjoy indoors and relax or can set out to explore the
-      beautiful Sankri village where there are local shops and small market
-      selling mostly daily goods and a collection of few dhabas. The BSNL
-      network is quite erratic here so getting the phone lines can be a little
-      difficult. However the scenic beauty of the setting sun on the Greater
-      Himalayas from Sankri is a fabulous sight to savor. One can have dinner at
-      the hotel premises or can enjoy dinner at the dhabas to taste some local
-      flavors and experience the cuisine of the area. Overnight stay at the
-      hotel.
-  - image: /assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-day-2.jpg
     imageAlt: kedarkantha peak trek day 2
     heading: "Day 2: Sankri to Juda-ka-Talab"
     description: Though the tour starts from Dehradun but the trekking trip
@@ -292,81 +298,4 @@ sectionItineraryBullets:
       those who wish to stay in Dehradun and enjoy the place for a day or more
       can book a hotel in the city and spend some more lovely days in midst the
       beautiful Himalayas.
-author: null
-thumbnail: /assets/templates/images/about-us-1.jpg
-imageAlt: this is Kedarkantha Peak Trek Image
-sectionWeatherDescription: In the initial days of the pre monsoon season
-  (May-Jun) there will be snow along the latter part of the trail which
-  generally melts by end June. Days are going to be sunny and warm (12-20 °C)
-  while the night temperature at the highest campsite would be in the range of
-  -2 to 6 °C. In the post monsoon season (Sep-Oct) there is hardly any snow at
-  the start with possibility of snowfall towards the end of the season, which
-  also melts very fast. The days are sunny with temperatures hovering around
-  (10-16 °C) the evenings start getting cold with the onset of October and
-  nights are comparatively colder (- 5 to 5 °C).<br>Please keep in mind that the
-  above information is not exact and does not account for sudden changes.
-  Whatever the temperatures and conditions rest assured we will be prepared to
-  handle it with ease as we use equipment of very high specifications.
-date: null
-title: Kedarkantha Peak Trek
-tags:
-  - profile
-  - trek
-  - post
-bannerImage: /assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-profile-header.jpg
-description: The Kedarkantha Peak is one of the most sought after snow trekking
-  destinations in India. | Trek with HIMALAYAN HIKING CLUB
-sectionOverview: Overview
-sectionOverviewBullets:
-  - Region :- Uttarakhand
-  - Duration :- 6 Days
-  - Grade :- Easy To Moderate
-  - Max Altitude :- 12,500 Ft.
-  - Approx Trekking Km :- 33 Kms
-sectionOverviewDescription: >
-  Adorned with ravishing beauty of falling snow and fringed with pine trees, The
-  Kedarkantha Peak is one of the most sought after snow trekking destinations in
-  India. With falling winter snow it’s a mesmerizing pictorial view and what’s
-  more attractive, is the view of the Mighty Himalayas from the trails right to
-  the top. Nestled at a height of 3810 meters which is about 12,500 feet this is
-  an ideal trekking trail which covers a consolidated distance of 20 kms. The
-  distance is not much and the trekking trail is neither very difficult which
-  enables even the first time trekkers to set on the adventure and enjoy the
-  beauty of nature at its best. With charming and captivating sights of snow
-  clapped Himalayas, the verdant greenery, lush landscapes, myriad collection of
-  flora, frozen ponds, to the sights of mesmerizing peaks, this trek have all
-  the delightful marvels that a trekker wish to experience and view in his
-  journey. Not only for the adventure seekers and trekkers, to enjoy thrilling
-  challenges, the Kedarkantha Trek is an ideal destination for the nature lovers
-  to bask in the beauty of undisturbed nature and enjoy delightful and blissful
-  moments with exhilarating experiences.
-
-  <br>
-
-  <br>
-
-  Based in Western Garhwal in the Uttarakashi district, the Kedarkantha Trek is known for being one of the easy treks of the country which can be attended by people who are in experienced trekkers and have no knowledge of prior trekking. However physical fitness is required where one should be able to jog at least for 4 kms in 30 minutes before committing for the trekking tour. As the altitude rises the air becomes thin and people needs to carry backpacks too, which can all be very difficult, without proper physical fitness.
-
-  <br>
-
-  <br>
-
-  Trekking in Uttarakhand is always a pleasure due to its ravishing beauty and panoramic natural views that cannot be matched with any other destinations within the country. But among all the fascinating locations and thrilling trekking sites available it is the snow treks of Kedarkantha which inspires every trekker a lot. In fact it has a lot of reasons of being such a terrific trek which makes it so popular among the enthusiastic travelers. The very first reason is the availability of snow till the end of April making it one of the best winter trek destination of all. And what more one can view the lovely snows at a height of only 10,000 feet lying at the base of the pine trees. The next reason for its popularity is the lovely campsites, where every site is unique in its own way and does not match the beauty with any other campsites in the journey. Another beauty of this trekking trail is that it starts from dense pine forest where one can begin the trekking trail walking over the bed brown dried leaves creating a unique experience and a magnificent view that is absolutely unparallel. Last but not the least is the splendid jaw dropping breath taking view of the famous snow clapped mountain summits that comes into view as soon as one steps in Kedarkantha base and the view gets more stunning which each step towards the summit. In a whole the trekking tour promises refreshing and heart filled pleasure which makes the destination so attractive to millions of visitors throughout the year.
-
-  <br>
-
-  <br>
-
-  Though Kedarkantha trek can be conducted almost the whole year but the aspiring views that it provides in the winter months from December to April cannot be compared with summer times. The snow clapped trekking trails and the buckets of snow at the base of the pine trees are a fascinating beauty to savor and which remains only available during the winter days. In fact for the locals the winter months are a time for rejoice and they enjoy with a number of festivals during this time. However it is better to avoid the monsoon time for trekking in these trail.
-sectionShortItinerary: Kedarkantha Peak Trek Section Short Itinerary
-sectionShortItineraryBullets:
-  - "Day 1: Arrival at Sankri"
-  - "Day 2: Sankri to Juda-ka-Talab"
-  - "Day 3: Juda-ka-Talab to Kedarkantha Base"
-  - "Day 4: Kedarkantha base to Kedarkantha peak; descend to Hargaon camp"
-  - "Day 5: Hargaon camp to Sankri"
-  - "Day 6: Departure day (Sankri to Dehradun)"
-  - <strong>Note:</strong> On Day 6, you’ll reach Dehradun between 6 pm and 7
-    pm. You can book your travel any time after 8 pm.
-sectionWeather: Weather Details
 ---
