@@ -42,7 +42,6 @@ collections:
           - { label: "Display Pic Alt Text", name: "imageAlt", widget: "string" }
           - { label: "Heading", name: "heading", widget: "string" }
           - { label: "Itinerary Description", name: "description", widget: "string" }
-common:
   - name: "common-sections"
     label: "Common Sections"
     folder: "src/himalayanProfile/himalayanProfile.json"
