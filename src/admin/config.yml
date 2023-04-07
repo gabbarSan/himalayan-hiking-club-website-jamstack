@@ -48,4 +48,4 @@ collections:
     create: true
     slug: "{{slug}}"
     fields: 
-      - { label }
+      - { label: "Price", name: "pricePanelList", widget: "list" }
