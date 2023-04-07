@@ -45,4 +45,8 @@ collections:
 common:
   - name: "common-sections"
     label: "Common Sections"
-    folder: "src/common-sections"
+    folder: "src/himalayanProfile/himalayanProfile.json"
+    create: true
+    slug: "{{slug}}"
+    fields: 
+      - { label }

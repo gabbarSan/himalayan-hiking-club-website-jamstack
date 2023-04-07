@@ -1,0 +1,10 @@
+<div class="box_style_1">
+    <div class="price">
+        <strong>₹{{ trekPrice }} </strong><small>per person</small>
+    </div>
+    <ul class="list_ok">
+        {%- for item in pricePanelList-%}
+            <li>{{ item | safe }}</li>
+        {%- endfor -%}
+    </ul>
+</div>
