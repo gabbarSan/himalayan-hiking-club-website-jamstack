@@ -44,7 +44,8 @@ collections:
           - { label: "Itinerary Description", name: "description", widget: "string" }
   - name: "common-sections"
     label: "Common Sections"
-    folder: "src/himalayanProfile/himalayanProfile.json"
+    extension: "json"
+    folder: "src/common"
     create: true
     slug: "{{slug}}"
     fields: 
