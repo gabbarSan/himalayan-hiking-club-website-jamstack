@@ -49,4 +49,5 @@ collections:
     create: true
     slug: "{{slug}}"
     fields: 
-      - { label: "Price", name: "pricePanelList", widget: "list" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "{{slug}}", name: "pricePanelList", widget: "list" }
