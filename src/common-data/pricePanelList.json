@@ -1,6 +1,7 @@
 {
     "layout": "himalayanProfile/himalayanProfile.njk",
     "title": "Price Panel List",
+    "tags": ["pricePanelList"],
     "pricePanelList": [
         "1. Transport: Dehradun to Sankri and Return.", 
         "2. Meals while on trek (Veg. + Egg).", 

@@ -42,10 +42,10 @@ collections:
           - { label: "Display Pic Alt Text", name: "imageAlt", widget: "string" }
           - { label: "Heading", name: "heading", widget: "string" }
           - { label: "Itinerary Description", name: "description", widget: "string" }
-  - name: "common-sections"
-    label: "Common Sections"
+  - name: "common-data"
+    label: "Common Data"
     extension: "json"
-    folder: "src/common"
+    folder: "src/common-data"
     create: true
     slug: "{{slug}}"
     fields: 
