@@ -1,7 +1,7 @@
 <div class="tab-pane active" id="essentials">
     <p>Mountain/adventure travel requires one to be adequately equipped with the right kind of personal gear. Since one is travelling in the wilderness there will be hardly any opportunity to buy anything once you hit the trail so we urge you to carefully pack everything into your bags. Also please keep in mind you can rent out or purchase equipment from our Gear Store, if required.</p>
     <ul>
-        {%- for item in listOfEssentials.listOfEssentials -%}
+        {%- for item in listOfEssentials.values -%}
             <li>{{ item | safe }}</li>
         {%- endfor -%}
     </ul>
