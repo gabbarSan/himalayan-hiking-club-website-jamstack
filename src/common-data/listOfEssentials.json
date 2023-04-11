@@ -1,5 +1,5 @@
 {
-  "title": "List Of Exclusions",
+  "title": "List Of Essentials",
   "values": [
     "Jeans / Trekking Pants - 2",
     "Shirt / T - Shirts - 2 to 3",
@@ -28,5 +28,88 @@
     "Carry rain cover for your bags",
     "Keep a few poly bags or waterproof bags in your bag in which if required you can put your belongings in case of heavy rain",
     "Camera if you like (with fully charged batteries)"
+  ],
+  "dataList": [
+    {
+      "values": "Jeans / Trekking Pants - 2"
+    },
+    {
+      "values": "Shirt / T - Shirts - 2 to 3"
+    },
+    {
+      "values": "Windproof jacket of decent quality (no flimsy wind cheaters please!) preferably with a hood"
+    },
+    {
+      "values": "Warm and thick Fleece / Full-sleeve Woollen sweater"
+    },
+    {
+      "values": "Thermal inner wear (upper & lower)"
+    },
+    {
+      "values": "Woollen cap"
+    },
+    {
+      "values": "Woollen gloves"
+    },
+    {
+      "values": "Woollen socks &amp; regular socks (3-4 pairs)"
+    },
+    {
+      "values": "Scarf/muffler (optional)"
+    },
+    {
+      "values": "Comfortable Trekking/Hiking shoes (shoes with a thick sole are recommended)"
+    },
+    {
+      "values": "Lightweight floaters/sandals/slippers"
+    },
+    {
+      "values": "Raincoat / Poncho"
+    },
+    {
+      "values": "Small light weight towel"
+    },
+    {
+      "values": "Water bottle (sturdy ones, no empty Bisleri bottles!!)"
+    },
+    {
+      "values": "Cap / Hat to keep the strong sun away from your face"
+    },
+    {
+      "values": "Sun glasses"
+    },
+    {
+      "values": "Walking stick / Trekking pole"
+    },
+    {
+      "values": "Sunscreen Lotion"
+    },
+    {
+      "values": "Lip Balm"
+    },
+    {
+      "values": "Torch / Flashlight (with extra batteries)"
+    },
+    {
+      "values": "Medicines, if requiring any specific medication"
+    },
+    {
+      "values": "Personal toiletries"
+    },
+    {
+      "values": "Books, if you like reading"
+    },
+    {
+      "values": "Day pack/small bag which you will carry on your back every day and keep your essentials in it"
+    },
+    {
+      "values": "Carry rain cover for your bags"
+    },
+    {
+      "values": "Keep a few poly bags or waterproof bags in your bag in which if required you can put your belongings in case of heavy rain"
+    },
+    {
+      "values": "Camera if you like (with fully charged batteries)"
+    }
   ]
 }
