@@ -50,4 +50,8 @@ collections:
     slug: "{{slug}}"
     fields: 
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Data (Comma Separated List)", name: "values", widget: "list" }
+      - label: "Data List"
+        name: "dataList"
+        widget: "list"
+        fields:
+          - { label: "List Item", name: "values", widget: "string" }
