@@ -2,22 +2,22 @@
   "title": "Exclusions List",
   "dataList": [
     {
-      "values": "Any kind of personal expenses."
+      "value": "Any kind of personal expenses."
     },
     {
-      "values": "Food during the transit."
+      "value": "Food during the transit."
     },
     {
-      "values": "Mules or porter to carry personal luggage."
+      "value": "Mules or porter to carry personal luggage."
     },
     {
-      "values": "Insurance."
+      "value": "Insurance."
     },
     {
-      "values": "Any kind of emergency evacuation charges."
+      "value": "Any kind of emergency evacuation charges."
     },
     {
-      "values": "Anything not specifically mentioned under the head."
+      "value": "Anything not specifically mentioned under the head."
     }
   ]
 }

@@ -54,4 +54,4 @@ collections:
         name: "dataList"
         widget: "list"
         fields:
-          - { label: "List Item", name: "values", widget: "string" }
+          - { label: "List Item", name: "value", widget: "string" }
