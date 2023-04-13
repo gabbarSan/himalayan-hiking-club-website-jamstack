@@ -1,12 +1,12 @@
 <div class="tab-pane" id="exclusions">
     <ol>
-        <li>Any kind of personal expenses.</li>
+        <!-- li>Any kind of personal expenses.</li>
         <li>Food during the transit.</li>
         <li>Mules or porter to carry personal luggage.</li>
         <li>Insurance.</li>
         <li>Any kind of emergency evacuation charges</li>
-        <li>Anything not specifically mentioned under the head.</li>
-        {%- for item in exclusions-list.dataList -%}
+        <li>Anything not specifically mentioned under the head.</li -->
+        {%- for item in exclusionsList.dataList -%}
             <li>{{ item.value | safe }}</li>
         {%- endfor -%}
     </ol>
