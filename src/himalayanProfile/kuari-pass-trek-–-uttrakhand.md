@@ -73,7 +73,8 @@ sectionWeatherDescription: >-
 itineraryList:
   - image: /assets/templates/images/kuari-pass-trek-day-1.jpg
     imageAlt: Kuari Pass Trek Day 1 image
-    heading: Day 1 - HARIDWAR – JOSHIMATH / AULI (2450M) (DRIVE / 8 - 9 HRS)
+    heading: Day 1 - HARIDWAR – JOSHIMATH / AULI (2450M) <small>(DRIVE / 8 - 9
+      HRS)</small>
     description: We assemble at Haridwar railway station at 7 a.m and from there
       board a vehicle which will drop us at Auli. This drive is long yet
       engaging. We will for most part of the journey drive along the Ganga &
