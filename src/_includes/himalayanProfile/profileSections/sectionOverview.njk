@@ -1,7 +1,7 @@
 <h3>{{ sectionOverview }}</h3>
 <p>
     {%- for bullet in sectionOverviewBullets -%}
-        {{bullet}}<br>
+        {{ bullet | safe }}<br>
     {%- endfor -%}
 </p>
 <p>{{ sectionOverviewDescription | safe }}</p>

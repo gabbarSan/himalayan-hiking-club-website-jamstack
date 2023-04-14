@@ -11,7 +11,7 @@
         <div class="img-thumbnail img-thumbnail-small">
         <img class="img-circle" src="{{ testimonial.userProfileImage }}" alt="">
         </div>
-        <p><strong>"{{ testimonial.userName }}"</strong><span>{{ testimonial.userRelationship }}</span></p>
+        <p><strong>"{{ testimonial.userName | safe }}"</strong><span>{{ testimonial.userRelationship | safe }}</span></p>
     </div>
     </div>
 {%- endfor -%}
