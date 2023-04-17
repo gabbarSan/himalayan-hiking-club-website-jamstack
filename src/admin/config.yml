@@ -62,13 +62,8 @@ collections:
     create: true
     slug: "{{slug}}"
     fields: 
-      - { label: "Title", name: "title", widget: "string" }
-      - label: "Testimonials List"
-        name: "testimonialsList"
-        widget: "list"
-        fields:
-          - { label: "User Name", name: "userName", widget: "string" }
-          - { label: "User Image", name: "userProfileImage", widget: "image" }
-          - { label: "User Relationship", name: "userRelationship", widget: "string", default: "Customer"}
-          - { label: "User Testimonial Summary", name: "userTestimonialSummary", widget: "string", default: ""}
-          - { label: "User Testimonial Detail", name: "userTestimonialDetail", widget: "string" }
+      - { label: "User Name", name: "title", widget: "string" }
+      - { label: "User Image", name: "userProfileImage", widget: "image" }
+      - { label: "User Relationship", name: "userRelationship", widget: "string", default: "Customer"}
+      - { label: "User Testimonial Summary", name: "userTestimonialSummary", widget: "string", default: ""}
+      - { label: "User Testimonial Detail", name: "userTestimonialDetail", widget: "string" }
