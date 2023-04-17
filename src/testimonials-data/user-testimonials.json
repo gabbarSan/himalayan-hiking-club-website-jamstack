@@ -1,6 +1,4 @@
 {
-    "tags": [ "profile", "trek", "post" ],
-    "layout": "himalayanProfile/himalayanProfile.njk",
     "testimonials": [
         {
             "userProfileImage": "../../assets/templates/images/testimonials/ashwini-profile.jpg",

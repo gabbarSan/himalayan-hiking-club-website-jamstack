@@ -55,3 +55,15 @@ collections:
         widget: "list"
         fields:
           - { label: "List Item", name: "value", widget: "string" }
+  - name: "testimonials-data"
+    label: "User Testimonials"
+    extension: "json"
+    folder: "src/testimonials-data"
+    create: true
+    slug: "{{slug}}"
+    fields: 
+      - { label: "User Name", name: "userName", widget: "string" }
+      - { label: "User Image", name: "userProfileImage", widget: "image" }
+      - { label: "User Relationship", name: "userRelationship", widget: "string", default: "Customer"}
+      - { label: "User Testimonial Summary", name: "userTestimonialSummary", widget: "string", default: ""}
+      - { label: "User Testimonial Detail", name: "userTestimonialDetail", widget: "string" }

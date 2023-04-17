@@ -1,0 +1,36 @@
+--- 
+title: Himalayan Hiking Club Listing Page
+layout: "himalayanListingBase.njk"
+--- 
+       
+{%- for trek in collections.trek -%}
+<div class="media list_1">
+    <div class="pull-right" ><a href="this trek url"><img src="this trek url_image" alt="" class="img-rounded styled"></a></div>
+    <div class="media-body">
+        <a href="this trek url"><h3 class="media-heading">{{ trek.data.title | safe }} <small class="price_2">₹{{ trek.data.trekPrice | safe }}</small></h3></a>
+        <p>{{ trek.data.subHeading | safe }}</p>
+        <ul class="data-lessons">
+            <li><i class="icon-clock"></i>Duration: "this trek duration" Days</li>
+                <li class="po-markup">
+                <i class="icon-list-numbered"></i> <a class="po-link" href="javascript:void(0)" > Level: "this trek level"</a>
+                    <div class="po-content hidden">
+                    <div class="po-title"><strong>"this trek level type"</strong></div> <!-- ./po-title -->
+                    <div class="po-body">
+                        <p class="no_margin">{{ trek.data.description }}</p>
+                    </div><!-- ./po-body -->
+                </div><!-- ./po-content -->
+            </li>
+        </ul>
+        <a href="this trek url" class="button_medium">Read more</a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="#requestCallBack" data-toggle="modal" class="button_medium">Quick Enquiry</a>
+    </div> <!-- END - media-body -->
+</div><!-- END media list_1 -->
+<li>
+    <artcle class="snippet">
+        <h3 class="snippet__title">{{ trek.data.title }}</h3>
+    </artcle>
+</li>
+{%- endfor -%}
+
+

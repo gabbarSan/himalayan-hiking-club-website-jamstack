@@ -3,7 +3,7 @@
     {%- for testimonial in testimonials -%}
     <div>
     <blockquote class="testimonial">
-        <p>{{ testimonial.userTestimonialDetail }}</p>
+        <p>{{ testimonial.userTestimonialDetail | safe }}</p>
     </blockquote>
     <div class="testimonial-arrow-down">
     </div>
