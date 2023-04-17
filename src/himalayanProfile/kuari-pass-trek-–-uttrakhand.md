@@ -82,7 +82,8 @@ itineraryList:
       Devprayag & Rudraprayag. On reaching, rest for the night in tents.
   - image: /assets/templates/images/kuari-pass-trek-day-2.jpg
     imageAlt: Kuari Pass Trek Day 2 Image
-    heading: Day 2 -JOSHIMATH / AULI (2450M) – KHULARA (3225M) (TREK / 6 HRS)
+    heading: Day 2 -JOSHIMATH / AULI (2450M) – KHULARA (3225M) <small>(TREK / 6
+      HRS)</small>
     description: After an early breakfast we drive a short distance (5 kms) to reach
       the starting point of the trek. From here we start hiking through the Auli
       meadows (popular for skiing) and witness up-close views of the famous
@@ -98,8 +99,8 @@ itineraryList:
       clear night star gazing is going to be fun. Overnight in tents.
   - image: /assets/templates/images/kuari-pass-trek-day-3.jpg
     imageAlt: Kuari Pass Trek Day 3 Image
-    heading: Day 3 - KHULARA (2550M) – KUARI PASS (3650M) - KHULARA (2550M) (TREK /
-      6 - 7 HRS)
+    heading: Day 3 - KHULARA (2550M) – KUARI PASS (3650M) - KHULARA (2550M)
+      <small>(TREK / 6 - 7 HRS)</small>
     description: Today we go through a series of ascents on meadows which keep on
       getting better as we move up. Walking on golden, green and other hues of
       grass is just bliss. The mountain air is crisp and the views brilliant! We
@@ -114,8 +115,8 @@ itineraryList:
       tents
   - image: /assets/templates/images/kuari-pass-trek-day-4.jpg
     imageAlt: Kuari Pass Trek Day 4 Image
-    heading: Day 4 - KHULARA (2550M) – DHAK - JOSHIMATH / AULI (2450M) (TREK / 4 - 5
-      HRS) (DRIVE / 1 HR)
+    heading: Day 4 - KHULARA (2550M) – DHAK - JOSHIMATH / AULI (2450M) <small>(TREK
+      / 4 - 5 HRS) (DRIVE / 1 HR)</small>
     description: After a leisurely breakfast we start climbing down towards the road
       linking Joshimath to Niti-Malari valley. We will walk all the way down to
       Dhak a small market place on this road. Walk today is again a completely
@@ -126,6 +127,7 @@ itineraryList:
       vehicles and drive to Auli. Overnight in tents.
   - image: /assets/templates/images/kuari-pass-trek-day-5.jpg
     imageAlt: Kuari Pass Trek Day 5 Image
-    heading: Day 5 - JOSHIMATH / AULI (2450M) – HARIDWAR (DRIVE / 8 - 9 HRS)
+    heading: Day 5 - JOSHIMATH / AULI (2450M) – HARIDWAR <small>(DRIVE / 8 - 9
+      HRS)</small>
     description: After breakfast drive down to Haridwar. Trip ends here
 ---
