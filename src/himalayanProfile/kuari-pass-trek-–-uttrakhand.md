@@ -12,6 +12,8 @@ trekLevelDescription: These treks are 5 to 7 days long and involve walking for
 trekDuration: "Duration: 7 Days"
 bannerImage: /assets/templates/images/kuari-pass-trek-profile-header.jpg
 imageAlt: Kuari Pass Trek Banner Image
+listingPageImage: /assets/templates/images/kuari-pass-trek-listing.jpg
+listingPageImageAlt: Kuari Pass Listing Page Image
 galleryImages:
   - src: /assets/templates/images/kuari-pass-trek-1.jpg
     alt: Kuari Pass Trek - Banner Image 1
