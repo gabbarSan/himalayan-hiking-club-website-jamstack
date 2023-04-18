@@ -14,6 +14,9 @@ collections:
       - { label: "Title Short", name: "titleShort", widget: "string" }
       - { label: "Short Description", name: "shortDescription", widget: "string" }
       - { label: "Trek Price", name: "trekPrice", widget: "string" }
+      - { label: "Trek Level Type", name: "trekLevelType", widget: "string" }
+      - { label: "Trek Level Description", name: "trekLevelDescription", widget: "string" }
+      - { label: "Trek Duration", name: "trekDuration", widget: "string" }
       - { label: "Banner Image", name: "bannerImage", widget: "image" }
       - { label: "Banner Image Alt", name: "imageAlt", widget: "string" }
       - label: "Gallery"
