@@ -19,6 +19,8 @@ collections:
       - { label: "Trek Duration", name: "trekDuration", widget: "string" }
       - { label: "Banner Image", name: "bannerImage", widget: "image" }
       - { label: "Banner Image Alt", name: "imageAlt", widget: "string" }
+      - { label: "Listing Page Image", name: "listingPageImage", widget: "image" }
+      - { label: "Listing Page Image Alt", name: "listingPageImageAlt", widget: "string" }
       - label: "Gallery"
         name: "galleryImages"
         widget: "list"

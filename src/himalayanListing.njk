@@ -10,13 +10,13 @@ layout: "himalayanListingBase.njk"
         <a href="this trek url"><h3 class="media-heading">{{ trek.data.title | safe }} <small class="price_2">₹{{ trek.data.trekPrice | safe }}</small></h3></a>
         <p>{{ trek.data.shortDescription | safe }}</p>
         <ul class="data-lessons">
-            <li><i class="icon-clock"></i>Duration: "this trek duration" Days</li>
+            <li><i class="icon-clock"></i>{{ trek.data.trekDuration | safe }}</li>
                 <li class="po-markup">
-                <i class="icon-list-numbered"></i> <a class="po-link" href="javascript:void(0)" > Level: "this trek level"</a>
+                <i class="icon-list-numbered"></i> <a class="po-link" href="javascript:void(0)" >{{ trek.data.trekLevelType | safe }}</a>
                     <div class="po-content hidden">
-                    <div class="po-title"><strong>"this trek level type"</strong></div> <!-- ./po-title -->
+                    <div class="po-title"><strong>{{ trek.data.trekLevelType | safe }}</strong></div> <!-- ./po-title -->
                     <div class="po-body">
-                        <p class="no_margin">"this is test margin" {{ trek.data.shortDescription | safe }}</p>
+                        <p class="no_margin">{{ trek.data.trekLevelDescription | safe }}</p>
                     </div><!-- ./po-body -->
                 </div><!-- ./po-content -->
             </li>
