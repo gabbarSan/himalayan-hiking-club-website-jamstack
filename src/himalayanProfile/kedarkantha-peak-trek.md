@@ -10,7 +10,7 @@ trekLevelType: " Level: Easy to Moderate"
 trekLevelDescription: These treks are 5 to 7 days long and involve walking for
   about 4/5 hrs daily. For these treks prior trekking experience is not
   necessary.  These are great for families and first timers
-trekDuration: "Duration: 7 days Days"
+trekDuration: "Duration: 7 Days"
 galleryImages:
   - src: /assets/templates/images/kedarkantha-peak-trek-1.jpg
     alt: Kedarkantha Peak Trek Carousel Image 1
