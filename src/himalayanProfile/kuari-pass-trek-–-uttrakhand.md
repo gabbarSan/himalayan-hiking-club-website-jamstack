@@ -5,6 +5,11 @@ shortDescription: Kuari Pass trek in the Garhwal district of Uttarakhand is
   famous for the spectacular views of the twin peaks of Nanda Devi, Hathi- Ghori
   Parbat, icy- crest Donagiri, Changbang and Trishul.
 trekPrice: "13500"
+trekLevelType: " Level: Easy to Moderate"
+trekLevelDescription: These treks are 5 to 7 days long and involve walking for
+  about 4/5 hrs daily. For these treks prior trekking experience is not
+  necessary.  These are great for families and first timers
+trekDuration: "Duration: 7 days Days"
 bannerImage: /assets/templates/images/kuari-pass-trek-profile-header.jpg
 imageAlt: Kuari Pass Trek Banner Image
 galleryImages:
