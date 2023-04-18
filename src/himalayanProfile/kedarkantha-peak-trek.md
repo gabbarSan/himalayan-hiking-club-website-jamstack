@@ -2,15 +2,18 @@
 title: Kedarkantha Peak Trek
 shortDescription: The Kedarkantha Peak is one of the most sought after snow
   trekking   destinations in India.
-heading: Kedarkantha Peak Trek
-titleShort: Kedarkantha
-trekPrice: 13500
-sectionItinerary: Itinerary
 trekLevelType: " Level: Easy to Moderate"
 trekLevelDescription: These treks are 5 to 7 days long and involve walking for
   about 4/5 hrs daily. For these treks prior trekking experience is not
   necessary.  These are great for families and first timers
 trekDuration: "Duration: 7 Days"
+imageAlt: this is Kedarkantha Peak Trek Image
+listingPageImageAlt: Kedarkantha Listing Page Image
+heading: Kedarkantha Peak Trek
+titleShort: Kedarkantha
+trekPrice: 13500
+sectionItinerary: Itinerary
+listingPageImage: /assets/templates/images/kedarkantha-peak-trek-listing.jpg
 galleryImages:
   - src: /assets/templates/images/kedarkantha-peak-trek-1.jpg
     alt: Kedarkantha Peak Trek Carousel Image 1
@@ -29,6 +32,12 @@ tags:
 description: The Kedarkantha Peak is one of the most sought after snow trekking
   destinations in India. | Trek with HIMALAYAN HIKING CLUB
 sectionOverview: Overview
+sectionOverviewBullets:
+  - Region :- Uttarakhand
+  - Duration :- 6 Days
+  - Grade :- Easy To Moderate
+  - Max Altitude :- 12,500 Ft.
+  - Approx Trekking Km :- 33 Kms
 sectionOverviewDescription: >
   Adorned with ravishing beauty of falling snow and fringed with pine trees, The
   Kedarkantha Peak is one of the most sought after snow trekking destinations in
@@ -64,6 +73,7 @@ sectionOverviewDescription: >
   <br>
 
   Though Kedarkantha trek can be conducted almost the whole year but the aspiring views that it provides in the winter months from December to April cannot be compared with summer times. The snow clapped trekking trails and the buckets of snow at the base of the pine trees are a fascinating beauty to savor and which remains only available during the winter days. In fact for the locals the winter months are a time for rejoice and they enjoy with a number of festivals during this time. However it is better to avoid the monsoon time for trekking in these trail.
+sectionShortItinerary: Kedarkantha Peak Trek Section Short Itinerary
 sectionShortItineraryBullets:
   - "Day 1: Arrival at Sankri"
   - "Day 2: Sankri to Juda-ka-Talab"
@@ -280,7 +290,6 @@ itineraryList:
       beautiful Himalayas.
 author: null
 thumbnail: /assets/templates/images/about-us-1.jpg
-imageAlt: this is Kedarkantha Peak Trek Image
 sectionWeatherDescription: In the initial days of the pre monsoon season
   (May-Jun) there will be snow along the latter part of the trail which
   generally melts by end June. Days are going to be sunny and warm (12-20 °C)
@@ -295,12 +304,5 @@ sectionWeatherDescription: In the initial days of the pre monsoon season
   handle it with ease as we use equipment of very high specifications.
 date: null
 bannerImage: /assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-profile-header.jpg
-sectionOverviewBullets:
-  - Region :- Uttarakhand
-  - Duration :- 6 Days
-  - Grade :- Easy To Moderate
-  - Max Altitude :- 12,500 Ft.
-  - Approx Trekking Km :- 33 Kms
-sectionShortItinerary: Kedarkantha Peak Trek Section Short Itinerary
 sectionWeather: Weather Details
 ---
