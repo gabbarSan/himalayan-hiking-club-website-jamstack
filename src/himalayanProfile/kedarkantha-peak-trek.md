@@ -2,8 +2,6 @@
 shortDescription: The Kedarkantha Peak is one of the most sought after snow
   trekking   destinations in India.
 heading: Kedarkantha Peak Trek
-subHeading: The Kedarkantha Peak is one of the most sought after snow trekking
-  destinations in India.
 titleShort: Kedarkantha
 trekPrice: 13500
 sectionItinerary: Itinerary
