@@ -1,6 +1,6 @@
 <h4>Testimonials</h4>
 <div class="carousel">
-    {%- for testimonial in testimonials -%}
+    {%- for testimonial in testimonialsData["user-testimonials"].testimonialsList -%}
     <div>
     <blockquote class="testimonial">
         <p>{{ testimonial.userTestimonialDetail | safe }}</p>

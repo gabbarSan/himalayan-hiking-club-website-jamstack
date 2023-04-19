@@ -50,7 +50,7 @@ collections:
   - name: "common-data"
     label: "Common Data"
     extension: "json"
-    folder: "src/common-data"
+    folder: "src/_data/staticLists"
     create: true
     slug: "{{slug}}"
     fields: 
@@ -63,12 +63,17 @@ collections:
   - name: "testimonials-data"
     label: "User Testimonials"
     extension: "json"
-    folder: "src/testimonials-data"
+    folder: "src/_data/testimonialsData"
     create: true
     slug: "{{slug}}"
-    fields: 
-      - { label: "User Name", name: "title", widget: "string" }
-      - { label: "User Image", name: "userProfileImage", widget: "image" }
-      - { label: "User Relationship", name: "userRelationship", widget: "string", default: "Customer"}
-      - { label: "User Testimonial Summary", name: "userTestimonialSummary", widget: "string", default: ""}
-      - { label: "User Testimonial Detail", name: "userTestimonialDetail", widget: "string" }
+    fields:
+      - { label: "Title", name: "title", widget: "string" } 
+      - label: "Data List"
+        name: "dataList"
+        widget: "list"
+        fields:
+        - { label: "User Name", name: "userName", widget: "string" }
+        - { label: "User Image", name: "userProfileImage", widget: "image" }
+        - { label: "User Relationship", name: "userRelationship", widget: "string", default: "Customer"}
+        - { label: "User Testimonial Summary", name: "userTestimonialSummary", widget: "string", default: ""}
+        - { label: "User Testimonial Detail", name: "userTestimonialDetail", widget: "string" }

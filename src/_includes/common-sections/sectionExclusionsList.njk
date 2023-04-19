@@ -6,7 +6,7 @@
         <li>Insurance.</li>
         <li>Any kind of emergency evacuation charges</li>
         <li>Anything not specifically mentioned under the head.</li -->
-        {%- for item in exclusionsList.dataList -%}
+        {%- for item in staticLists.exclusionsList.dataList -%}
             <li>{{ item.value | safe }}</li>
         {%- endfor -%}
     </ol>

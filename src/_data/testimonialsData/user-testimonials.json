@@ -1,5 +1,5 @@
 {
-  "title": "Ashwini",
+  "title": "User Testimonials",
   "testimonialsList": [
     {
       "userRelationship": "Customer",
@@ -29,9 +29,5 @@
       "userName": "Smita",
       "userProfileImage": "/assets/templates/images/smita-profile.jpg"
     }
-  ],
-  "userProfileImage": "/assets/templates/images/ashwini-profile.jpg",
-  "userRelationship": "Customer",
-  "userTestimonialSummary": "Blank",
-  "userTestimonialDetail": "Amazed again! This was the second winter trek in Uttarakhand and I must say this place seize to amaze me again and again. Not only the basic facilities were amazing but proper attention to the nutrition, comfortable tents ,sleeping bags with lining , hot chocolate and of course the magical games to keep us moving through out the day in the freezing temperatures added to the extra warmth. Very thoughtful and innovative ideas by HHC to keep  the group engaged and fit throughout the trek. Thanks HHC for that extra warmth and an experience that humbled me and at the same time fulfilled me."
+  ]
 }
