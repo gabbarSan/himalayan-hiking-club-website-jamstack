@@ -1,4 +1,5 @@
 ---
+permalink: "kedarkantha-peak-trek/index.html"
 title: Kedarkantha Peak Trek
 shortDescription: The Kedarkantha Peak is one of the most sought after snow
   trekking   destinations in India.

@@ -1,4 +1,5 @@
 ---
+permalink: "kuari-pass-trek/index.html"
 title: Kuari Pass Trek – Uttrakhand
 titleShort: Kuari Pass Trek
 shortDescription: Kuari Pass trek in the Garhwal district of Uttarakhand is
