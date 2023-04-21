@@ -3,7 +3,7 @@ title: Himalayan Hiking Club Listing Page
 layout: "himalayanListingBase.njk"
 --- 
        
-{%- for trek in collections.post -%}
+{%- for trek in collections.trek -%}
 <div class="media list_1">
     <div class="pull-right" ><a href="{{ trek.url }}"><img src="{{ trek.data.listingPageImage | safe }}" alt="{{ trek.data.listingPageImageAlt | safe }}" class="img-rounded styled"></a></div>
     <div class="media-body">
@@ -21,7 +21,7 @@ layout: "himalayanListingBase.njk"
                 </div><!-- ./po-content -->
             </li>
         </ul>
-        <a href="this trek url" class="button_medium">Read more</a>
+        <a href="{{ trek.url }}" class="button_medium">Read more</a>
         &nbsp;&nbsp;&nbsp;
         <a href="#requestCallBack" data-toggle="modal" class="button_medium">Quick Enquiry</a>
     </div> <!-- END - media-body -->

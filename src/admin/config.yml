@@ -14,6 +14,8 @@ collections:
       - { label: "Title Short", name: "titleShort", widget: "string" }
       - { label: "URL for This Page", name: "permalink", widget: "string" }
       - { label: "Short Description", name: "shortDescription", widget: "string" }
+      - { label: "Meta Title for SEO", name: "metaTitle", widget: "string" }
+      - { label: "Meta Description for SEO", name: "metaDescription", widget: "string" }
       - { label: "Trek Price", name: "trekPrice", widget: "string" }
       - { label: "Trek Level Type", name: "trekLevelType", widget: "string" }
       - { label: "Trek Level Description", name: "trekLevelDescription", widget: "string" }
@@ -44,7 +46,7 @@ collections:
         name: "itineraryList"
         widget: "list"
         fields:
-          - { label: "Display Pic", name: "image", widget: "image" }
+          - { label: "Display Pic - Image should be 200 x 150 px", name: "image", widget: "image" }
           - { label: "Display Pic Alt Text", name: "imageAlt", widget: "string" }
           - { label: "Heading", name: "heading", widget: "string" }
           - { label: "Itinerary Description", name: "description", widget: "string" }
@@ -74,7 +76,7 @@ collections:
         widget: "list"
         fields:
         - { label: "User Name", name: "userName", widget: "string" }
-        - { label: "User Image", name: "userProfileImage", widget: "image" }
+        - { label: "User Image - Image should be 150 x 150 px", name: "userProfileImage", widget: "image" }
         - { label: "User Relationship", name: "userRelationship", widget: "string", default: "Customer"}
         - { label: "User Testimonial Summary", name: "userTestimonialSummary", widget: "string", default: ""}
         - { label: "User Testimonial Detail", name: "userTestimonialDetail", widget: "string" }
