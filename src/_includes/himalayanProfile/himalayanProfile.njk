@@ -5,8 +5,8 @@
 
 <!-- Basic Page Needs -->
 <meta charset="utf-8">
-<title>{{ title }}</title>
-<meta name="description" content="Profile page content to be filled | Trek with HIMALAYAN HIKING CLUB himalayanhikingclub">
+<title>{{ metaTitle }}</title>
+<meta name="description" content="{{ metaDescription }}">
 <meta name="author" content="HIMALAYAN HIKING CLUB">
 
     <!-- Favicons-->
@@ -21,15 +21,15 @@
 
     <!-- Schema.org markup for Google+ -->
     <meta itemprop="name" content="{{ title }}">
-    <meta itemprop="description" content="{{ description }}">
-    <meta itemprop="image" content="{{images[1].imageUrl}}"> 
+    <meta itemprop="description" content="{{ shortDescription }}">
+    <meta itemprop="image" content="{{ galleryImages[1].src }}"> 
 
     <!-- og- open graph tags - facebook -->
     <meta property="og:title" content="{{ title }}">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="{{bannerImage}}">
-    <meta property="og:image" content="{{images[1].imageUrl}}">
-    <meta property="og:description" content="{{profile_master.pr_sub_heading_level_1}}">
+    <meta property="og:url" content="{{ permalink }}">
+    <meta property="og:image" content="{{ galleryImages[1].src }}">
+    <meta property="og:description" content="{{ shortDescription }}">
     <meta property="og:site_name" content="Himalayanhikingclub">
 
 	<!-- CSS -->

@@ -5,8 +5,8 @@
 
 <!-- Basic Page Needs -->
 <meta charset="utf-8">
-<title>"this trek title"</title>
-<meta name="description" content="this trek description">
+<title>{{ metaTitle }}</title>
+<meta name="description" content="{{ metaDescription }}">
 <meta name="author" content="HIMALAYAN HIKING CLUB">
 
   <!-- Favicons-->
@@ -20,16 +20,16 @@
   <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no">
 
   <!-- Schema.org markup for Google+ -->
-  <meta itemprop="name" content="{{title_tag}}">
-  <meta itemprop="description" content="{{desc_tag}}">
+  <meta itemprop="name" content="{{ metaTitle }}">
+  <meta itemprop="description" content="{{ metaDescription }}">
   <meta itemprop="image" content="../../assets/templates/images/common/himalayan-hiking-club-listing-page-hike-list-list-of-treks.jpg"> 
 
   <!-- og- open graph tags - facebook -->
-  <meta property="og:title" content="{{title_tag}}">
+  <meta property="og:title" content="{{ metaTitle }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="../../assets/ls/discover-himalayas-with-some-amazing-treks">
   <meta property="og:image" content="../../assets/templates/images/common/himalayan-hiking-club-listing-page-hike-list-list-of-treks.jpg">
-  <meta property="og:description" content="{{desc_tag}}">
+  <meta property="og:description" content="{{ metaDescription }}">
   <meta property="og:site_name" content="Himalayanhikingclub">
 
 
@@ -92,10 +92,10 @@
   	<div class="col-md-9 border">
       <ol class="breadcrumb">
         <li><a href="../../assets/">Home</a></li>
-        <li class="active">Discover Himalayas with these amazing treks</li>
+        <li class="active">{{ title }}</li>
       </ol>
-      <h1>Discover Himalayas with these Amazing Treks</h1>
-      <p class="lead">Witness the mesmerizing beauty of the mighty Himalayas with these treks custom created just for you. </p>
+      <h1>{{ title }}</h1>
+      <p class="lead">{{ description }} </p>
       <hr class="rope">
       
       {{ content | safe }}
