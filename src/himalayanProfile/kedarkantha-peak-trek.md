@@ -1,14 +1,16 @@
 ---
-permalink: "kedarkantha-peak-trek/index.html"
 title: Kedarkantha Peak Trek
 shortDescription: The Kedarkantha Peak is one of the most sought after snow
   trekking   destinations in India.
+metaTitle: Kedarkantha Peak Trek | HIMALAYAN HIKING CLUB
+metaDescription: The Kedarkantha Peak is one of the most sought after snow
+  trekking destinations in India. | Trek with HIMALAYAN HIKING CLUB
 trekLevelType: " Level: Easy to Moderate"
 trekLevelDescription: These treks are 5 to 7 days long and involve walking for
   about 4/5 hrs daily. For these treks prior trekking experience is not
   necessary.  These are great for families and first timers
 trekDuration: "Duration: 7 Days"
-imageAlt: this is Kedarkantha Peak Trek Image
+bannerImage: /assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-profile-header.jpg
 listingPageImageAlt: Kedarkantha Listing Page Image
 heading: Kedarkantha Peak Trek
 titleShort: Kedarkantha
@@ -290,7 +292,9 @@ itineraryList:
       can book a hotel in the city and spend some more lovely days in midst the
       beautiful Himalayas.
 author: null
+permalink: kedarkantha-peak-trek/index.html
 thumbnail: /assets/templates/images/about-us-1.jpg
+imageAlt: this is Kedarkantha Peak Trek Image
 sectionWeatherDescription: In the initial days of the pre monsoon season
   (May-Jun) there will be snow along the latter part of the trail which
   generally melts by end June. Days are going to be sunny and warm (12-20 °C)
@@ -304,6 +308,5 @@ sectionWeatherDescription: In the initial days of the pre monsoon season
   Whatever the temperatures and conditions rest assured we will be prepared to
   handle it with ease as we use equipment of very high specifications.
 date: null
-bannerImage: /assets/templates/images/profile/kedarkantha-peak-trek/kedarkantha-peak-trek-profile-header.jpg
 sectionWeather: Weather Details
 ---
