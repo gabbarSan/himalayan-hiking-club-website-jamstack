@@ -12,7 +12,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Title Short", name: "titleShort", widget: "string" }
-      -- { label: "URL for This Page", name: "permalink", widget: "string" }
+      - { label: "URL for This Page", name: "permalink", widget: "string" }
       - { label: "Short Description", name: "shortDescription", widget: "string" }
       - { label: "Trek Price", name: "trekPrice", widget: "string" }
       - { label: "Trek Level Type", name: "trekLevelType", widget: "string" }
