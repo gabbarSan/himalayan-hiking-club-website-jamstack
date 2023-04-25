@@ -54,7 +54,7 @@ collections:
     label: "Common Data"
     extension: "json"
     folder: "src/_data/staticLists"
-    create: true
+    create: false
     slug: "{{slug}}"
     fields: 
       - { label: "Title", name: "title", widget: "string" }
@@ -67,7 +67,7 @@ collections:
     label: "User Testimonials"
     extension: "json"
     folder: "src/_data/testimonialsData"
-    create: true
+    create: false
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" } 
@@ -84,7 +84,7 @@ collections:
     label: "Related Links Section"
     extension: "json"
     folder: "src/_data/relatedLinks"
-    create: true
+    create: false
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" } 
