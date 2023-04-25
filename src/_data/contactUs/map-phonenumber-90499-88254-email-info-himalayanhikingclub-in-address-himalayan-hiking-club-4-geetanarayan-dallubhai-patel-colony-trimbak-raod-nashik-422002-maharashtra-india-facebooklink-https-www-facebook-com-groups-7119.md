@@ -1,5 +1,5 @@
 ---
-phoneNumber: 90499 88254
+phoneNumber: Contact US
 email: info@himalayanhikingclub.in
 address: Himalayan Hiking Club, 4, Geetanarayan Dallubhai Patel Colony, Trimbak
   Raod, Nashik, 422002, Maharashtra, India
