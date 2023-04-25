@@ -80,3 +80,18 @@ collections:
         - { label: "User Relationship", name: "userRelationship", widget: "string", default: "Customer"}
         - { label: "User Testimonial Summary", name: "userTestimonialSummary", widget: "string", default: ""}
         - { label: "User Testimonial Detail", name: "userTestimonialDetail", widget: "string" }
+  - name: "related-links"
+    label: "Related Links Section"
+    extension: "json"
+    folder: "src/_data/relatedLinks"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" } 
+      - label: "Data List"
+        name: "dataList"
+        widget: "list"
+        fields:
+        - { label: "Related Link Display Name", name: "relatedLinkName", widget: "string" }
+        - { label: "Related Link", name: "relatedLinkValue", widget: "string" }
+
