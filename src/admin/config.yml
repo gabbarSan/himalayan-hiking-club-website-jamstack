@@ -96,6 +96,7 @@ collections:
         - { label: "Related Link", name: "relatedLinkValue", widget: "string" }
   - name: "contactUs"
     label: "Contact US"
+    extension: "json"
     folder: "src/_data/contactUs"
     create: false
     slug: "{{slug}}"
