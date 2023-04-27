@@ -107,4 +107,5 @@ collections:
       - { label: "Address", name: "address", widget: "string" }
       - { label: "Facebook Link", name: "facebookLink", widget: "string" }
       - { label: "Instagram Link", name: "instagramLink", widget: "string" }
+      - { label: "Copyright Year", name: "copyrightYear", widget: "string" }
 

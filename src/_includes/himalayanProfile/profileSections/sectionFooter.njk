@@ -18,15 +18,15 @@
             <p>Feel free to call us or send a message, we will reply shortly.</p>
             <ul>
                <li><i class="icon-home"></i>{{ contactUs["contact-us"].address }}</li>
-               <li><a href="tel:90499 88254"><i class="icon-phone"></i> 90499 88254 </a></li>
-               <li><i class="icon-email"></i> <a href="mailto:info@himalayanhikingclub.in">info@himalayanhikingclub.in</a></li>
+               <li><a href="tel:{{ contactUs['contact-us'].phoneNumber }}"><i class="icon-phone"></i>{{ contactUs["contact-us"].phoneNumber }}</a></li>
+               <li><i class="icon-email"></i> <a href="mailto:info@himalayanhikingclub.in">{{ contactUs["contact-us"].email }}</a></li>
     		   </ul>
          </div>
          <div class="col-md-4 col-sm-12">
             <h4>Follow us</h4>
             <ul id="follow_us">
-              <li><a href="https://www.facebook.com/groups/711974115969054/" target="_blank"><i class="icon-facebook"></i></a></li>
-              <li><a href="https://www.instagram.com/himalayanhikingclub/" target="_blank"><i class="icon-instagram"></i></a></li>
+              <li><a href="{{ contactUs['contact-us'].facebookLink }}" target="_blank"><i class="icon-facebook"></i></a></li>
+              <li><a href="{{ contactUs['contact-us'].instagramLink }}" target="_blank"><i class="icon-instagram"></i></a></li>
               <!-- li><a href="../../assets/"><i class=" icon-google"></i></a></li -->
             </ul>
          </div>
@@ -34,7 +34,7 @@
       <hr class="rope_2">
       <div class="row">
          <div class="col-md-12 text-center">
-         	<p id="copy">Copyright © 2019<br><strong>Address:</strong> Himalayan Hiking Club, 4, Geetanarayan Dallubhai Patel Colony, Trimbak Raod, Nashik, 422002, Maharashtra, India - <strong>Email:</strong> <a href="mailto:info@himalayanhikingclub.in">info@himalayanhikingclub.in</a>  - <a href="tel:90499 88254"><strong>Telephone:</strong> 90499 88254 </a></p>
+         	<p id="copy">Copyright © {{ contactUs["contact-us"].copyrightYear }}<br><strong>Address:</strong>{{ contactUs["contact-us"].address }}</a></p>
          </div>
       </div><!-- End row -->
    </div><!-- End container -->
